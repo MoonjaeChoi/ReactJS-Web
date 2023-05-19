@@ -7,7 +7,7 @@ function Contact() {
             <h2 className='text-headingColor font-[700] text-[2.5rem] mb-8'>
                 Get in touch
             </h2>
-            <div className="mb:flex justify-between items-center">
+            <div className="md:flex justify-between items-center">
                 <div className="w-full md:w-1/2 h-[300px] sm:h-[450px]">
                 <iframe title='google-maps' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4889.71861945013!2d127.00317141008658!3d37.37586792710673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b5f6c44086951%3A0xe4609ec6585a5994!2z66Gv642w7ZSE66as66-47JeE7JWE7Jq466CbIO2DgOyehOu5jOudvOyKpA!5e0!3m2!1sko!2skr!4v1684502108078!5m2!1sko!2skr"
                         className='border-0 w-full h-full'
