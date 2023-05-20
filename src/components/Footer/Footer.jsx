@@ -1,6 +1,9 @@
 import React from 'react'
 
 function Footer() {
+
+  const year = new Date().getFullYear()
+
   return (
     <footer className='bg-[#12141e] pt-12'>
       {/*  ================  footer top ================ */}
@@ -91,6 +94,11 @@ function Footer() {
                 </div>
               </div>
             </div>
+
+            <div>
+              <p className="text-gray-400 text-[14px]">Copyright [year] Powered by Moonjae - All right reserved.</p>
+            </div>
+
           </div>
         </div>
       </div>
